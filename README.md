@@ -30,6 +30,8 @@ Front-End - Flutter
 
 Back-End - Firebase
 
+Plugin - Jitsi Meet
+
 # Images
 
 Login Screen
